@@ -12,7 +12,7 @@
     <groupId>kombucha.is.amazing</groupId>
     <artifactId>kombucha-ms-bom</artifactId>
     <packaging>pom</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>kombucha-ms-bom</name>
     <description>parent pom for MS-komb projects</description>
 
@@ -311,7 +311,7 @@
         <connection>scm:git:https://github.com/fabcaz/kombucha-ms-bom.git</connection>
         <developerConnection>scm:git:https://github.com/fabcaz/kombucha-ms-bom.git</developerConnection>
         <url>https://github.com/fabcaz/kombucha-ms-bom.git</url>
-        <tag>kombucha-ms-bom-1.0</tag>
+        <tag></tag>
     </scm>
 
     <distributionManagement>
